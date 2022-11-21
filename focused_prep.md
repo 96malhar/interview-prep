@@ -107,6 +107,7 @@
 - [x] Search in Rotated Sorted Array II - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 - [x] Find in Mountain Array - https://leetcode.com/problems/find-in-mountain-array/
 - [x] Range Frequency Queries - https://leetcode.com/problems/range-frequency-queries/
+- [x] Cutting Ribbons - https://leetcode.com/problems/cutting-ribbons/
 
 ### Ultimate DP
 - https://leetcode.com/discuss/study-guide/1000929/solved-all-dynamic-programming-dp-problems-in-7-months
